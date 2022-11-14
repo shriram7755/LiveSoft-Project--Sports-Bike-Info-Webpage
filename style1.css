@@ -1,0 +1,58 @@
+body{
+    background-color:rgb(138, 173, 235);
+}
+input{
+    width: 120%;
+}
+select{
+    width: 120%;
+}
+.Contact{
+    text-align: center;
+    border: 2px solid black;
+    margin-left: 45%;
+    margin-right: 45%;
+    background-color: rgb(42, 136, 105);
+    
+}
+.container{
+    float: left;
+    margin: 70px;
+    margin-right: 280px;
+    margin-left: 280px;
+    
+}
+.container-a{
+    float: right;
+    margin: 70px 280px;
+    
+}
+.containerk{
+padding-top: 60px;
+}
+.container-ab{
+    padding-top: 60px;   
+}
+
+
+
+h1{
+    text-align: center;
+}
+button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+     font-size: 16px;
+     margin-top: 30px;
+
+    
+}
+button:hover{
+    transition: 1s;
+    background-color: blueviolet;
+}
